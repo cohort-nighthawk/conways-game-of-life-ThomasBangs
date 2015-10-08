@@ -1,8 +1,8 @@
-C:\Users\Thomas\Documents\Visual Studio 2015\Projects\conways-game-of-life-ThomasBangs\dotnet\GameOfLife\UnitTestConwaysLife\obj\Debug\UnitTestConwaysLife.csprojResolveAssemblyReference.cache
 C:\Users\Thomas\Documents\Visual Studio 2015\Projects\conways-game-of-life-ThomasBangs\dotnet\GameOfLife\UnitTestConwaysLife\bin\Debug\UnitTestConwaysLife.dll
 C:\Users\Thomas\Documents\Visual Studio 2015\Projects\conways-game-of-life-ThomasBangs\dotnet\GameOfLife\UnitTestConwaysLife\bin\Debug\UnitTestConwaysLife.pdb
 C:\Users\Thomas\Documents\Visual Studio 2015\Projects\conways-game-of-life-ThomasBangs\dotnet\GameOfLife\UnitTestConwaysLife\bin\Debug\GameOfLife.exe
 C:\Users\Thomas\Documents\Visual Studio 2015\Projects\conways-game-of-life-ThomasBangs\dotnet\GameOfLife\UnitTestConwaysLife\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Thomas\Documents\Visual Studio 2015\Projects\conways-game-of-life-ThomasBangs\dotnet\GameOfLife\UnitTestConwaysLife\bin\Debug\GameOfLife.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\conways-game-of-life-ThomasBangs\dotnet\GameOfLife\UnitTestConwaysLife\obj\Debug\UnitTestConwaysLife.csprojResolveAssemblyReference.cache
 C:\Users\Thomas\Documents\Visual Studio 2015\Projects\conways-game-of-life-ThomasBangs\dotnet\GameOfLife\UnitTestConwaysLife\obj\Debug\UnitTestConwaysLife.dll
 C:\Users\Thomas\Documents\Visual Studio 2015\Projects\conways-game-of-life-ThomasBangs\dotnet\GameOfLife\UnitTestConwaysLife\obj\Debug\UnitTestConwaysLife.pdb

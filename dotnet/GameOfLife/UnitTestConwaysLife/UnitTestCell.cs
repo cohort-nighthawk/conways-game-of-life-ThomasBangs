@@ -23,15 +23,15 @@ namespace UnitTestConwaysLife
             
             Assert.AreEqual(0, genesis.Count() );
         }
-        //[TestMethod]
-        //public void TestThatCellsHaveBeenCreated()
-        //{
-        //    World genesis = new World();
-        //    genesis.AddCell("x0, y0");
-        //    Assert.AreEqual("x0, y0", genesis.AddCell() );
-        //}
-        
+
         //if no add cells
+        [TestMethod]
+        public void TestThatCellIsAlive()
+        {
+            World genesis = new World();
+            Cell cell = new Cell();
+            Assert.AreEqual(true, cell.IsAlive());
+        }
         
     }
 }

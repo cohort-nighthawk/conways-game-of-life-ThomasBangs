@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace GameOfLife
 {
-    class Cell
+    public class Cell
     {
+        private bool Alive;
+        public Cell()
+        {
+            
+        }
+        public bool IsAlive()
+        {
+            return true;
+
+        }
+
+
     }
 }

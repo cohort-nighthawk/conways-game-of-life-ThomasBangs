@@ -11,7 +11,7 @@ namespace GameOfLife
         public int Length { get; set; }
         public int Width { get; set; }
         private  object[,] CellArray;
-        public string cell;
+
         public int count = 0;
         public int Count()
         {
@@ -25,6 +25,7 @@ namespace GameOfLife
             this.Length = 12;
             this.Width = 12;
             this.CellArray = new object [Length, Width];
+
            
               
         }
