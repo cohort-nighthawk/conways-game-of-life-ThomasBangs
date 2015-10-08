@@ -10,7 +10,7 @@ namespace GameOfLife
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("This is Conway's Game of Life");
+            Console.WriteLine();
             Console.WriteLine("Press any key to continue");
             Console.ReadKey();
         }
